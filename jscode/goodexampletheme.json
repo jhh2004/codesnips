@@ -1,0 +1,64 @@
+{
+https://themegen.netlify.app/
+  "fonts": {
+    "BodyPrimary": "Crimson Text",
+    "Secondary": "Quattrocento",
+    "headingtext": "Lato"
+  },
+  "color": {
+    "main": "#a81f1f",
+    "Secondary": "#041d4e",
+    "Accent": "#1e6226",
+    "Text": "#211C1B",
+    "Base": "#f0efef",
+    "Accent2": "#ceb303",
+    "alert": {
+      "Success": "#37C976",
+      "Info": "#3EAFFF",
+      "Warning": "#FFA23A",
+      "Danger": "#FE5051"
+    }
+  },
+  "h1": {
+    "fontFamily": "Lato",
+    "fontSize": "2.5em",
+    "lineHeight": "",
+    "letterSpacing": "0",
+    "fontWeight": "800"
+  },
+  "h2": {
+    "fontFamily": "Lato",
+    "fontSize": "2em",
+    "lineHeight": "",
+    "letterSpacing": "0",
+    "fontWeight": "bold"
+  },
+  "h3": {
+    "fontFamily": "Lato",
+    "fontSize": "1.75em",
+    "lineHeight": "56",
+    "letterSpacing": "0",
+    "fontWeight": "medium"
+  },
+  "h4": {
+    "fontFamily": "Arial",
+    "fontSize": "38px",
+    "lineHeight": "48",
+    "letterSpacing": "0",
+    "fontWeight": "regular"
+  },
+  "h5": {
+    "fontFamily": "Nunito",
+    "fontSize": "18px",
+    "lineHeight": "28",
+    "letterSpacing": "0",
+    "fontWeight": "regular"
+  },
+  "h6": {
+    "fontFamily": "Quattrocento",
+    "fontSize": "1.25em",
+    "lineHeight": "24",
+    "letterSpacing": "0",
+    "fontWeight": "600"
+  }
+}

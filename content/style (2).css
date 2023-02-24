@@ -1,0 +1,19 @@
+
+/* font import */
+@import url("https://fonts.googleapis.com/css?family=%22Roboto%22&display=swap");
+/* variables */
+:root {
+  --mdc-theme-primary:  #1e128c;
+  --mdc-theme-on-primary:  #ededed;
+  --mdc-theme-secondary:  #b01111;
+  --mdc-theme-on-secondary:  #ffffff;
+  --mdc-theme-error:  #9e5c00;
+  --mdc-theme-on-error:  #ffffff;
+  --mdc-theme-surface:  #e6e6e6;
+  --mdc-theme-on-surface:  #0f1f71;
+  --mdc-theme-background:  #f2f2f2;
+  --mdc-shape-small:  4px;
+  --mdc-shape-medium:  4px;
+  --mdc-shape-large:  0px;
+  --mdc-typography--font-family:  "Roboto";
+}
